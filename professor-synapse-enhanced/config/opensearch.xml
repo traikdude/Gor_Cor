@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Professor Synapse Content Search</ShortName>
+  <Description>Smart content discovery for adaptive learning</Description>
+  <Tags>education learning ai adaptive content</Tags>
+  <Url type="text/html" template="https://www.google.com/search?tbm=isch&amp;q={searchTerms}+educational+content"/>
+  <Image width="16" height="16">data:image/x-icon;base64,🧙🏾‍♂️</Image>
+  <InputEncoding>UTF-8</InputEncoding>
+  <SearchForm>https://images.google.com</SearchForm>
+</OpenSearchDescription>
