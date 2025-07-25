@@ -36,3 +36,9 @@ professor-synapse-enhanced/
 
 ### Usage with AI Agents
 This framework is designed to be imported and used by AI agents (like Google Gemini) to provide structured, adaptive responses with multi-modal content delivery.
+
+## Development Notes
+- `.gitignore` prevents `build` and `node_modules` folders from being committed.
+- `package-lock.json` locks dependency versions for reproducible installs.
+- Run tests with `CI=true npm test -- --passWithNoTests`.
+- Build the production bundle with `npm run build --silent`.
